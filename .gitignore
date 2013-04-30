@@ -161,3 +161,28 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+
+# HL2
+cfg/config.cfg
+albedo.tga
+demoheader.tmp
+stats.txt
+textwindow_temp.html
+cfg/banned_user.cfg
+cfg/banned_ip.cfg
+cfg/pet.txt
+scripts/kb_def.lst
+scripts/settings.scr
+bin/client.pdb
+bin/server.pdb
+*.db
+*.xbox.vtx
+SAVE/*.*
+expressions
+screenshots
+reslists
+materials/maps/*.*
+materials/temp/*.*
+maps/graphs/*.*
+voice_ban.dt
+downloads/*.*
